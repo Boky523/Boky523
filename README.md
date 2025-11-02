@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-He trabajado en Qvision Technologies<br>Me apasiona el desarrollo web<br>Aprendiendo constantemente<br>Messi el mejor del mundo!
+He trabajado en Qvision Technologies<br>Me apasiona el desarrollo web<br>Aprendiendo constantemente<br>
 
 
 ## 🌐 Social:
